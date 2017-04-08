@@ -1,0 +1,2080 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nea",
+				"near-shore"
+			],
+			[
+				"cond",
+				"conditions\t(notes.tex)"
+			],
+			[
+				"time",
+				"time\tTag"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"spe",
+				"species\t(bibliograph.bib)"
+			],
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"pyruvate",
+				"Pyruvate"
+			],
+			[
+				"phospor",
+				"phosphorylation"
+			],
+			[
+				"maintan",
+				"maintained"
+			],
+			[
+				"EQu",
+				"Equilibrium"
+			],
+			[
+				"car",
+				"carnot"
+			],
+			[
+				"therfore",
+				"Therefore"
+			],
+			[
+				"lamb",
+				"lambda_0"
+			],
+			[
+				"part",
+				"partial"
+			],
+			[
+				"Carnot",
+				"carnot"
+			],
+			[
+				"proka",
+				"prokaryotic"
+			],
+			[
+				"happen",
+				"happened"
+			],
+			[
+				"RNA",
+				"Regional"
+			],
+			[
+				"the",
+				"the"
+			],
+			[
+				"enviro",
+				"environment"
+			],
+			[
+				"oth",
+				"otherlanguage"
+			],
+			[
+				"right",
+				"right)\tlatex-document"
+			],
+			[
+				"hb",
+				"hbar\tlatex-mathsymbols"
+			],
+			[
+				"bar",
+				"bar{a}\tlatex-mathsymbols"
+			],
+			[
+				"lam",
+				"lambda\tlatex-mathsymbols"
+			],
+			[
+				"lambda",
+				"lambda\tlatex-mathsymbols"
+			],
+			[
+				"width",
+				"textwidth\tlatex-document"
+			],
+			[
+				"para",
+				"paragraph{title}\tlatex-document"
+			],
+			[
+				"cite",
+				"cite{keylist}\tlatex-document"
+			],
+			[
+				"subse",
+				"subsection{title}\tlatex-document"
+			],
+			[
+				"a",
+				"areas"
+			],
+			[
+				"OM2",
+				"OM2_fluxt"
+			],
+			[
+				"M",
+				"M_C"
+			],
+			[
+				"dens",
+				"density_org_H_nc"
+			],
+			[
+				"SS",
+				"SS_C"
+			],
+			[
+				"K",
+				"K_decay"
+			],
+			[
+				"R_he",
+				"R_he_decay"
+			],
+			[
+				"k_",
+				"k_re_decay"
+			],
+			[
+				"HE",
+				"HE_ENZYMES"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"B",
+				"B_ACTIVE"
+			],
+			[
+				"ME",
+				"ME_ACTIVE"
+			],
+			[
+				"R_",
+				"R_inactive_cells"
+			],
+			[
+				"R_re",
+				"R_respiration"
+			],
+			[
+				"log",
+				"log_SUBSTRATE"
+			],
+			[
+				"E",
+				"ENERGY"
+			],
+			[
+				"K_re",
+				"K_re_util"
+			],
+			[
+				"K_HE",
+				"K_he_util"
+			],
+			[
+				"K_",
+				"K_HE"
+			],
+			[
+				"Km",
+				"Km_HE_ENZYMES"
+			],
+			[
+				"RE_",
+				"RE_ENZYMES"
+			],
+			[
+				"R_re_",
+				"R_re_enzymes"
+			],
+			[
+				"RE",
+				"RE_ENZYMES"
+			],
+			[
+				"R",
+				"R_he_util"
+			],
+			[
+				"Km_",
+				"Km_ENZYMES"
+			],
+			[
+				"ACTIVE",
+				"ACTIVE_ENERGY"
+			],
+			[
+				"SU",
+				"SUBSTRATE"
+			],
+			[
+				"ENE",
+				"ENERGY_AVALIABLE"
+			],
+			[
+				"B_",
+				"B_INACTIVE"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"R_ene",
+				"R_energy_conversion"
+			],
+			[
+				"AC",
+				"ACTIVE_ENERGY"
+			],
+			[
+				"EN",
+				"ENZYMES"
+			],
+			[
+				"ene",
+				"energy_conversion"
+			],
+			[
+				"SUBS",
+				"SUBSTRATE"
+			],
+			[
+				"enz",
+				"enzymes_conversion"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"fo",
+				"formulas"
+			],
+			[
+				"c",
+				"current_time"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"curr",
+				"current_value"
+			],
+			[
+				"cur",
+				"current_value"
+			],
+			[
+				"cu",
+				"current_time"
+			],
+			[
+				"ini",
+				"initialValue"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"p",
+				"p_example"
+			],
+			[
+				"current",
+				"current_value"
+			],
+			[
+				"clas",
+				"class_\tclass"
+			],
+			[
+				"attr",
+				"attrr\tRuby attr_reader"
+			],
+			[
+				"quote",
+				"quote_id"
+			],
+			[
+				"st",
+				"statuses"
+			],
+			[
+				"peter",
+				"peter_identity"
+			],
+			[
+				"printer",
+				"printer"
+			],
+			[
+				"prin",
+				"printer"
+			],
+			[
+				"expec",
+				"expect"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"all",
+				"all\tall? { |e| .. }"
+			],
+			[
+				"ass",
+				"assigns"
+			],
+			[
+				"branc",
+				"branch"
+			],
+			[
+				"num",
+				"num_won_orders"
+			],
+			[
+				"it",
+				"itb\tRSpec It Block"
+			],
+			[
+				"get",
+				"get_coordinates"
+			],
+			[
+				"quo",
+				"quote_responces"
+			],
+			[
+				"if",
+				"if\tERB if"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"del",
+				"delete_nil_params"
+			],
+			[
+				"max",
+				"max_amount"
+			],
+			[
+				"min",
+				"min_amount"
+			],
+			[
+				"Ox",
+				"Ox_sed"
+			],
+			[
+				"delta",
+				"delta1"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"NH",
+				"NH4"
+			],
+			[
+				"HCO",
+				"HCO3"
+			],
+			[
+				"CO",
+				"CO2"
+			],
+			[
+				"HS",
+				"HS"
+			],
+			[
+				"Kc",
+				"Kc2_eq"
+			],
+			[
+				"K_c",
+				"K_c2"
+			],
+			[
+				"Kw_",
+				"Kw_eq"
+			],
+			[
+				"H2",
+				"H2S"
+			],
+			[
+				"Co",
+				"CO3"
+			],
+			[
+				"CO3",
+				"CO3_new"
+			],
+			[
+				"HC",
+				"HCO3_new"
+			],
+			[
+				"OH",
+				"OH_new"
+			],
+			[
+				"S",
+				"Sulfide"
+			],
+			[
+				"R10",
+				"R10a"
+			],
+			[
+				"Kin_",
+				"Kin_FeOOH"
+			],
+			[
+				"Fe",
+				"FeOOH"
+			],
+			[
+				"K_Fe",
+				"K_FeS2pre"
+			],
+			[
+				"OM",
+				"OMb"
+			],
+			[
+				"R_eq",
+				"R_eq_OMS"
+			],
+			[
+				"F_Fe",
+				"F_FeOH3_top"
+			],
+			[
+				"K_a",
+				"K_apa"
+			],
+			[
+				"Ca3P",
+				"Ca3PO42"
+			],
+			[
+				"K_FeS",
+				"K_Fe_S"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"R4",
+				"R4b"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markmon launch"
+			],
+			[
+				"mark preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markm",
+				"Markmon launch"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snip",
+				"Snippet: Markdown Header 3"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"sni",
+				"Snippet: Markdown Header 3"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"mar",
+				"Markmon exit"
+			],
+			[
+				"git log ",
+				"Git: Quick Log"
+			],
+			[
+				"git c",
+				"Git: Amend Commit"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"snip img",
+				"Snippet: Markdown Image"
+			],
+			[
+				"ss ma",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"markon",
+				"Markmon exit"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colot",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"mark prew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"them",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"pac dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"snipp link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown settin",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"del",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"numer",
+				"Snippet: Enumerate"
+			],
+			[
+				"de",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"fig",
+				"Snippet: figure"
+			],
+			[
+				"quic",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"ital",
+				"Snippet: Italic Shape Text"
+			],
+			[
+				"ita",
+				"Snippet: Italic Shape Text"
+			],
+			[
+				"gitquic",
+				"Git: Quick Commit"
+			],
+			[
+				"remote",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"import",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"latexincit",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packene",
+				"Package Control: Enable Package"
+			],
+			[
+				"latex",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"delat",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latdel",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"latei",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"LaTeXing: cit",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"late del",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"Snippet: fig",
+				"Snippet: New figure"
+			],
+			[
+				"LaTeXing: ca",
+				"LaTeXing: Rebuild Cache"
+			],
+			[
+				"LaTeXing: ",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"latede",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"LaTeXing: ci",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"LaTeXing: remo",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"latexdele",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latex del",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"LaTeXing: fol",
+				"LaTeXing: Fold Environment"
+			],
+			[
+				"snipp",
+				"Snippet: quotes"
+			],
+			[
+				"LaTeXing: coun",
+				"LaTeXing: Texcount"
+			],
+			[
+				"LaTeXing: dic",
+				"LaTeXing: Word to Phrases Dictionary"
+			],
+			[
+				"LaTeXing: chec",
+				"LaTeXing: Check System"
+			],
+			[
+				"LaTeXing: fold",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"packaene",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"LaTeXing: buil",
+				"LaTeXing: Rebuild Cache"
+			],
+			[
+				"LaTeXing: rem",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"latexing",
+				"LaTeXing: Open PDF"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"figure",
+				"Snippet: Figure"
+			],
+			[
+				"latedel",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"pacdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"latextool",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"late",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"graphi",
+				"Git: Graph Current File"
+			],
+			[
+				"sslate",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"coo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"latexlic",
+				"LaTeXing: Install License"
+			],
+			[
+				"goo",
+				"Google Spell Check"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"latexf",
+				"LaTeXing: Fold Environment"
+			],
+			[
+				"foldla",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"snippage",
+				"Snippet: Page"
+			],
+			[
+				"lat",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"la",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tags",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"block",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"blo",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ssmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ssmatla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ssma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"linterena",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"enabel",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"popen",
+			"os.environ['PATH']",
+			"import os; os.environ['PATH']",
+			"gcc",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/MarkelovIgor/git/mixR-UI/.gitignore",
+		"/Users/MarkelovIgor/.zshrc",
+		"/Users/MarkelovIgor/git/biogeochemistry/notes/meetings/Lake Futures/burlington.md",
+		"/Users/MarkelovIgor/git/biogeochemistry/notes/meetings/Lake Futures/burlington.html",
+		"/Users/MarkelovIgor/git/biogeochemistry/notes/meetings/Lake Futures/lake_futures.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/latex_notes/notes.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/presentations and fridays/2016.08.05 Christina.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/conferences/Goldschmidt2016/readme.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/presentations and fridays/2016.07.12 Krom.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/presentations/2016.07.13 Chen.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/conferences/Linking watershed biogeochemistry and coastal ecology: Challenges for modeling and environmental policy/README.MD",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/other/Adrian_workshop.md",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/iCP/Day 2/Afternoon/Hands on/Example2_CalciteDissolution/Example 2 - 1D/iCPinput.json",
+		"/Users/MarkelovIgor/Documents/git/iCP/Day 3/Morning/Hands on/THC_Application_Case/Example 1 THC Canister/iCP_Canister.json",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/other/icp.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/RTM I/1.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/RTM I/assign1.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/presentations/16.04.22 Christina.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/meetings/16.04.13 pvc.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/bibliograph.bib",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/com.freron.MailMate/edit/62549/message.eml.markdown",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/com.freron.MailMate/edit/62539/message.eml.markdown",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/com.freron.MailMate/edit/62536/message.eml.markdown",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/presentations/march18_Friday.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes/water601.md",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/applications/RTM/rtm.md",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/applications/rtm.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/applications/rtm.html",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.bbl",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.toc",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/conv.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/papers.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/Remote.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/Langtjern/Sediments/ph-module/pH_phreeqc.cpp",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-26i9a_/advancedsettings.xml",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-t190xy/kodi.log",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-_92w_6/advancedsettings.xml",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/paper/model.tex",
+		"/Users/MarkelovIgor/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/AD05F7AC-3FA5-4069-BDDD-EF859332ED7D/bin00099.bin",
+		"/Users/MarkelovIgor/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/7C3C6FAB-A295-4549-BCAA-1970E7493EE5/bin00098.bin",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-4i7ui0/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-03b08d/smb.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-fzwxv2/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-eq6ic6/smb.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-9u93_l/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-lk1040/smb.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-td5x00/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-6h9ywg/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-78h82_/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-c6hnn5/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-5116g_/sftp.service",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-yzfqsn/afp.conf",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-bjs4kd/AppleVolumes.default",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-btl05h/netatalk",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-7epmga/afp.conf",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.aux",
+		"/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.log",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.out",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.sublime-project",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/estimating Gibbs energy of reaction/extras.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/estimating Gibbs energy of reaction/gibbs_ehergy_of_reaction.py",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/README.md",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/bibl.bib",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/LaTeXing/latexing/api/mendeley.map",
+		"//Users/MarkelovIgor/Documents/git/printchomp/app/controllers/application_controller.rb",
+		"//etc/hosts",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/notes/notes.blg",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/bioenergetics paper.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/bioenergetics paper.sublime-project",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/bibl.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/bioenergetics paper.toc",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/bioenergetics paper.bbl",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/missfont.log",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/acs-achemso.bib",
+		"/Users/MarkelovIgor/.Trash/acs-achemso.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetic_paper/achemso.bbl",
+		"/usr/local/texlive/2013basic/texmf-dist/tex/latex/base/fontenc.sty",
+		"/usr/local/texlive/2013basic/texmf-dist/tex/latex/apa6/apa6.cls",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.bbl",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/.gitignore",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/bibliography.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.blg",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.fls",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.log",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/paper.tex",
+		"/Users/MarkelovIgor/.gitconfig",
+		"/Users/MarkelovIgor/.vimrc",
+		"/Users/MarkelovIgor/Documents/git/printchomp/.git/COMMIT_EDITMSG",
+		"/tmp/subl stdin 3nToWi.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/sediments_paper/.git/COMMIT_EDITMSG",
+		"/tmp/subl stdin 5cQDqh.txt",
+		"/tmp/subl stdin pjYeid.txt",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/temp/temp.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/temp/bibliography.bib",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/paper.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/SelfArx.cls",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/mmd-memoir-begin-doc.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/temp/1996.bib",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/1996.bib",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/paper.blg",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/Wang,Y.&VanCappellen,1996.pdf",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/mmd-memoir-packages.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.sublime-project",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/sample.bib",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/paper.aux",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/article_3.log",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/article_3.fdb_latexmk",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/article_3.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/Wang,Y.&VanCappellen,1996.bib",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/article_3/results.pdf",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/paper.toc",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/mmd-memoir-setup.tex",
+		"/Users/MarkelovIgor/Google Drive/MyLake-MATSEDLAB coupling/Sediments paper/paper.tex/mmd-memoir-footer.tex"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"/",
+			"",
+			"/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coordinateUrl",
+			"time",
+			"Codophora",
+			"+",
+			"chem",
+			"variableList",
+			"variableL",
+			"variablel",
+			"var",
+			"phreq",
+			"stu",
+			"mark",
+			"subsubsubsection",
+			"colo",
+			"back",
+			"whit",
+			"musc",
+			"ionic",
+			"Humphrey1972",
+			"humphr",
+			"doi =",
+			"url",
+			"\\log (",
+			"\\log(",
+			"s_{carnot}",
+			"\n        dE = TdS = t_K k_B \\frac{1}{k_B} d",
+			"Carnot",
+			"carnot",
+			"partial",
+			"redox_react",
+			"95",
+			"regex",
+			"Rabo",
+			"Rab",
+			"Rabouille",
+			"bulk",
+			"\\\\",
+			"colo",
+			"fig",
+			"\\emph{",
+			"\\varphi",
+			"\\phi",
+			"boud",
+			"colo",
+			"[t]",
+			"Atkins2010",
+			"stumm",
+			"lide",
+			"Bethke2011Thermodynamic",
+			"katse",
+			"prev",
+			"mende",
+			"lovle",
+			"U",
+			"eq:potential",
+			"potential",
+			"second_deriv_schrodinger",
+			"builder",
+			"buil",
+			"figure1",
+			"book",
+			"dale",
+			", \\cite",
+			"\\citep",
+			"cite",
+			"citep",
+			"a_i",
+			"\\{a_i\\",
+			"\\{i\\",
+			"subsubsection",
+			"section",
+			"D",
+			"cite",
+			"authblk",
+			"model",
+			"equation",
+			"eqnarray",
+			"equation",
+			"align",
+			"eqnarray",
+			"P",
+			"Diagenesis",
+			"live",
+			"todo",
+			"section",
+			"Couture",
+			"section",
+			"env",
+			"chapter",
+			"sample",
+			"sampl",
+			"LAE_para_v12_1b_1.0m_zt_basin1alb0.54",
+			"Ox_flux",
+			"O2z(end) = O2z(end) ",
+			"O2z(end) = O2z(end) - O2_flux_matsedlabz dt Az(end) / Vz (end);",
+			"merge",
+			"priors",
+			"Calibration",
+			"lake_par_file",
+			"eva",
+			"disp",
+			"parafile",
+			"lake_par_file",
+			"modelin",
+			"flux",
+			"mats",
+			"flux",
+			"OM2",
+			"sediments",
+			"toc",
+			"OM2_bottom",
+			"57",
+			"56",
+			"H_netsed_catch",
+			"H_netsed_inorg",
+			"H_netsed",
+			"); ",
+			");",
+			"i",
+			"SUBSTRATE",
+			"K_enzymes",
+			"K_energy",
+			"HE",
+			"HE_",
+			"energy_conversion",
+			"Km_HE_ENZYMES",
+			"dG_r0",
+			"R_Respiration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"H_netsed_catch",
+			"candidate_branches",
+			"branch_candidates",
+			"branch_candidate",
+			"quote_branch_candidate",
+			"normal",
+			"/",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry",
+			"/",
+			"/Users/MarkelovIgor/Documents/git/biogeochemistry",
+			".*",
+			"*",
+			"",
+			" + ",
+			"HS",
+			"PO4ads",
+			"NO3",
+			"HS",
+			"OMS",
+			"AlOH3",
+			"Ca3PO42",
+			"Ca2",
+			"Ca",
+			"Ca2",
+			"Ca3PO42",
+			"Ca",
+			"Ca3PO42",
+			"Ca2",
+			"Ca3PO42",
+			"Ca",
+			"Sat_FeS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.10":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.5":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.9":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 92.0
+	},
+	"output.git-pull":
+	{
+		"height": 92.0
+	},
+	"output.git-push":
+	{
+		"height": 92.0
+	},
+	"output.markdown":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "codejam.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"burl",
+				"meetings/Lake Futures/burlington.md"
+			],
+			[
+				"bur",
+				"meetings/Lake Futures/burlington.html"
+			],
+			[
+				"icp",
+				"other/icp.md"
+			],
+			[
+				"pvc",
+				"meetings/16.04.13 pvc.md"
+			],
+			[
+				"notex",
+				"notes.tex"
+			],
+			[
+				"water",
+				"notes/water601.md"
+			],
+			[
+				"wa",
+				"notes/water601.md"
+			],
+			[
+				"",
+				"bibliograph.bib"
+			],
+			[
+				"rtm",
+				"applications/RTM/rtm.md"
+			],
+			[
+				"pap",
+				"papers.bib"
+			],
+			[
+				"re",
+				"Remote.bib"
+			],
+			[
+				"remote",
+				"Remote.bib"
+			],
+			[
+				"remo",
+				"Remote.bib"
+			],
+			[
+				"note",
+				"notes.tex"
+			],
+			[
+				"b",
+				"bibl.bib"
+			],
+			[
+				"bib",
+				"bibl.bib"
+			],
+			[
+				"bi",
+				"bibliography.bib"
+			],
+			[
+				"199",
+				"temp/1996.bib"
+			],
+			[
+				"pape",
+				"paper.tex/paper.tex"
+			],
+			[
+				"paper",
+				"paper.tex/paper.tex"
+			],
+			[
+				"196",
+				"paper.tex/1996.bib"
+			],
+			[
+				"1996",
+				"paper.tex/1996.bib"
+			],
+			[
+				"sam",
+				"article_3/sample.bib"
+			],
+			[
+				"paptex",
+				"paper.tex/paper.tex"
+			],
+			[
+				"ar",
+				"article_3/article_3.tex"
+			],
+			[
+				"modeli",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"model",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"sedime",
+				"Sediments/sediments.m"
+			],
+			[
+				"solvemodel_v12_1b_ut",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"solve",
+				"MyLake/v12/v12_1/solvemodel_v12_1b.m"
+			],
+			[
+				"lae_input_basin2",
+				"R_Script/LAE_input_basin2.txt"
+			],
+			[
+				"lae_input_basin1_to_basin2.txt",
+				"Langtjern/IO/LAE_input_basin1_to_basin2.txt"
+			],
+			[
+				"lae_input_basin2_land",
+				"R_Script/LAE_input_basin2_land.txt"
+			],
+			[
+				"3basin",
+				"Langtjern/langtjern_3_basins.m"
+			],
+			[
+				"solve12",
+				"MyLake/v12/v12_1/solvemodel_v12_1b.m"
+			],
+			[
+				"sed",
+				"Sediments/sediments.m"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin3alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin3alb0.54.txt"
+			],
+			[
+				"lang",
+				"langtjern_3_basins.m"
+			],
+			[
+				"hea",
+				"MyLake/v12/v12/heatflux_v12.m"
+			],
+			[
+				"lu",
+				"LUCID_DREAM.m"
+			],
+			[
+				"3bas",
+				"langtjern_3_basins.m"
+			],
+			[
+				"sedin",
+				"Sediments/sediments.m"
+			],
+			[
+				"merge",
+				"merge_l_b_inputs.R"
+			],
+			[
+				"laeinp",
+				"LAE_input.txt"
+			],
+			[
+				"laepa",
+				"LAE_para_v12_1b_1.0m_zt_basin3alb0.54.txt"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin1alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin1alb0.54.txt"
+			],
+			[
+				"lae_para_v12_1b_1.0m_zt_basin2alb0.54",
+				"LAE_para_v12_1b_1.0m_zt_basin2alb0.54.txt"
+			],
+			[
+				"kva",
+				"k_values_lake.txt"
+			],
+			[
+				"modeinp",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"mode",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"sedi",
+				"Sediments/sediments.m"
+			],
+			[
+				"solv",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"sole",
+				"MyLake/v12/v12_1/solvemodel_v12_1b.asv"
+			],
+			[
+				"sol",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"run",
+				"Sediments/run.m"
+			],
+			[
+				"sedim",
+				"Sediments/sediments.m"
+			],
+			[
+				"cali",
+				"Calibration.m"
+			],
+			[
+				"calikval",
+				"Sediments/calibration_k_values.txt"
+			],
+			[
+				"lae_para_v12_1b_1",
+				"LAE_para_v12_1b_1.0m_zt_basin1alb0.54.txt"
+			],
+			[
+				"k_values_lake",
+				"k_values_lake.txt"
+			],
+			[
+				"0m_zt_basin1alb0",
+				"LAE_para_v12_1b_1.0m_zt_basin1alb0.54.txt"
+			],
+			[
+				"k",
+				"k_values_lake.txt"
+			],
+			[
+				"modelinputs_v12_1b",
+				"MyLake/v12/v12_1/modelinputs_v12_1b.m"
+			],
+			[
+				"mylakesolve",
+				"MyLake/v12/v12_1/solvemodel_v12_1b_ut.m"
+			],
+			[
+				"res",
+				"results.txt"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"ode",
+				"OdeSolver.hpp"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"resu",
+				"results.txt"
+			],
+			[
+				"resul",
+				"results.txt"
+			],
+			[
+				"fora",
+				"ForwardEulerSolver.cpp"
+			],
+			[
+				"for",
+				"ForwardEulerSolver.hpp"
+			],
+			[
+				"pr",
+				"prog.cpp"
+			],
+			[
+				"odesl",
+				"OdeSolver.hpp"
+			],
+			[
+				"pro",
+				"prog.cpp"
+			],
+			[
+				"prog",
+				"prog.cpp"
+			],
+			[
+				"printerse",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"quotecand",
+				"app/services/quote_branch_candidate.rb"
+			],
+			[
+				"printersle",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"quotecon",
+				"app/controllers/quotes_controller.rb"
+			],
+			[
+				"createhist",
+				"db/migrate/20140304233700_create_histories.rb"
+			],
+			[
+				"histr",
+				"app/models/history.rb"
+			],
+			[
+				"quotede",
+				"app/views/quotes/show/_quote_details.html.erb"
+			],
+			[
+				"prinsel",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"branches",
+				"app/controllers/branches_controller.rb"
+			],
+			[
+				"ide",
+				"spec/factories/identities.rb"
+			],
+			[
+				"ident",
+				"app/models/identity.rb"
+			],
+			[
+				"ability",
+				"spec/concerns/ability_spec.rb"
+			],
+			[
+				"abili",
+				"app/concerns/ability.rb"
+			],
+			[
+				"bra",
+				"app/controllers/branches_controller.rb"
+			],
+			[
+				"branchcon",
+				"spec/controllers/branches_controller_spec.rb"
+			],
+			[
+				"abilisp",
+				"spec/concerns/ability_spec.rb"
+			],
+			[
+				"branchcont",
+				"app/controllers/branches_controller.rb"
+			],
+			[
+				"brancontspec",
+				"spec/controllers/branches_controller_spec.rb"
+			],
+			[
+				"orgconspec",
+				"spec/controllers/organizations_controller_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ordeconrspec",
+				"spec/controllers/orders_controller_spec.rb"
+			],
+			[
+				"order",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"branchnew",
+				"app/views/branches/new.html.erb"
+			],
+			[
+				"branchedit",
+				"app/views/branches/edit.html.erb"
+			],
+			[
+				"spechelp",
+				"spec/spec_helper.rb"
+			],
+			[
+				"testhelp",
+				"test/performance_test_helper.rb"
+			],
+			[
+				"quot",
+				"app/controllers/quotes_controller.rb"
+			],
+			[
+				"organizcons",
+				"spec/controllers/organizations_controller_spec.rb"
+			],
+			[
+				"orga",
+				"app/controllers/organizations_controller.rb"
+			],
+			[
+				"branchcontr",
+				"app/controllers/branches_controller.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"candidtaspec",
+				"spec/models/quote_branch_candidate_spec.rb"
+			],
+			[
+				"quotecontr",
+				"app/controllers/quotes_controller.rb"
+			],
+			[
+				"branchc",
+				"app/controllers/branches_controller.rb"
+			],
+			[
+				"identcon",
+				"app/controllers/identities_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"speccando",
+				"spec/services/quote_candidate_evaluator_spec.rb"
+			],
+			[
+				"candspec",
+				"spec/services/quote_branch_candidate_spec.rb"
+			],
+			[
+				"quote",
+				"app/models/quote.rb"
+			],
+			[
+				"cand",
+				"app/services/quote_branch_candidate.rb"
+			],
+			[
+				"candida",
+				"app/services/quote_candidate_evaluator.rb"
+			],
+			[
+				"printersele",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"quotecandida",
+				"app/models/quote_branch_candidate.rb"
+			],
+			[
+				"quote_branch_candidate_spec",
+				"spec/models/quote_branch_candidate_spec.rb"
+			],
+			[
+				"ored",
+				"app/models/order.rb"
+			],
+			[
+				"printer.",
+				"app/models/printer.rb"
+			],
+			[
+				"printer_se",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"qu",
+				"app/models/quote_response.rb"
+			],
+			[
+				"print",
+				"app/views/quotes/printer_selection.html.erb"
+			],
+			[
+				"printesele",
+				"app/views/quotes/printer_selection.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/git/biogeochemistry/bioenergetics/bioenergetics.sublime-project"
+			],
+			[
+				"bioe",
+				"~/Documents/git/biogeochemistry/bioenergetics/bioenergetics.sublime-project"
+			],
+			[
+				"paper",
+				"~/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project"
+			],
+			[
+				"lang",
+				"~/Documents/git/biogeochemistry/Langtjern/langtjern.sublime-project"
+			],
+			[
+				"water",
+				"~/Documents/git/water-601/Water601.sublime-project"
+			],
+			[
+				"prin",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			],
+			[
+				"sed",
+				"~/Documents/git/biogeochemistry/sediments_paper/paper.sublime-project"
+			],
+			[
+				"tool",
+				"~/Documents/git/biogeochemistry/toolbox_python/toolbox_python.sublime-project"
+			],
+			[
+				"print",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 528.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
