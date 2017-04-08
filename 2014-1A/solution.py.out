@@ -1,0 +1,157 @@
+   Input file: /Users/MarkelovIgor/Documents/git/codejam/1A-2014 Charging chaos/solution.py
+  Output file: /Users/MarkelovIgor/Documents/git/codejam/1A-2014 Charging chaos/solution.py.out
+Database file: database/phreeqc.dat
+
+------------------
+Reading data base.
+------------------
+
+	SOLUTION_MASTER_SPECIES
+	SOLUTION_SPECIES
+	PHASES
+	EXCHANGE_MASTER_SPECIES
+	EXCHANGE_SPECIES
+	SURFACE_MASTER_SPECIES
+	SURFACE_SPECIES
+	RATES
+	END
+------------------------------------
+Reading input data for simulation 1.
+------------------------------------
+
+	import itertools
+WARNING: Unknown input, no keyword has been specified.
+	import numpy as np
+WARNING: Unknown input, no keyword has been specified.
+	def read_init_and_form_matrices(line_2, line_3):
+WARNING: Unknown input, no keyword has been specified.
+	    ishod = np.array([[int(ch) for ch in v]for v in line_2.split()])
+WARNING: Unknown input, no keyword has been specified.
+	    req = np.array([[int(ch) for ch in v] for v in line_3.split()])
+WARNING: Unknown input, no keyword has been specified.
+	    return ishod, req
+WARNING: Unknown input, no keyword has been specified.
+	def modify_rows(ishod, req, N, L):
+WARNING: Unknown input, no keyword has been specified.
+	    counter = 0
+WARNING: Unknown input, no keyword has been specified.
+	    list_of_column_equal_0_and_1 = []
+WARNING: Unknown input, no keyword has been specified.
+	    for i in xrange(0, L):
+WARNING: Unknown input, no keyword has been specified.
+	        if sum(req[:, i]) == sum(ishod[:, i]):
+WARNING: Unknown input, no keyword has been specified.
+	            pass
+WARNING: Unknown input, no keyword has been specified.
+	        elif sum(req[:, i]) == N - sum(ishod[:, i]):
+WARNING: Unknown input, no keyword has been specified.
+	            counter += 1
+WARNING: Unknown input, no keyword has been specified.
+	            ishod[:, i] = np.logical_not(ishod[:, i])
+WARNING: Unknown input, no keyword has been specified.
+	        elif sum(req[:, i]) == N - sum(ishod[:, i]) and sum(req[:, i]) == sum(ishod[:, i]):
+WARNING: Unknown input, no keyword has been specified.
+	            list_of_column_equal_0_and_1.append(i)
+WARNING: Unknown input, no keyword has been specified.
+	        else:
+WARNING: Unknown input, no keyword has been specified.
+	            return ishod, counter, list_of_column_equal_0_and_1, False
+WARNING: Unknown input, no keyword has been specified.
+	    return ishod, counter, list_of_column_equal_0_and_1, True
+WARNING: Unknown input, no keyword has been specified.
+	def second_test(modified_ishod, req, N):
+WARNING: Unknown input, no keyword has been specified.
+	    test = 0
+WARNING: Unknown input, no keyword has been specified.
+	    for i in xrange(0, N):
+WARNING: Unknown input, no keyword has been specified.
+	        for j in range(0, N):
+WARNING: Unknown input, no keyword has been specified.
+	            if all(modified_ishod[i,:] == req[j,:]):
+WARNING: Unknown input, no keyword has been specified.
+	                test += 1
+WARNING: Unknown input, no keyword has been specified.
+	                break
+WARNING: Unknown input, no keyword has been specified.
+	    if test == N:
+WARNING: Unknown input, no keyword has been specified.
+	        return True
+WARNING: Unknown input, no keyword has been specified.
+	    else:
+WARNING: Unknown input, no keyword has been specified.
+	        return False
+WARNING: Unknown input, no keyword has been specified.
+	def rotation_of_equal_sized_columns(i, r, c, l):
+WARNING: Unknown input, no keyword has been specified.
+	    for i in xrange(2, len(l)):
+WARNING: Unknown input, no keyword has been specified.
+	        for a in itertools.combinations(l, i):
+WARNING: Unknown input, no keyword has been specified.
+	            temp_ishod = np.array(i, copy=True)
+WARNING: Unknown input, no keyword has been specified.
+	            for column in a:
+WARNING: Unknown input, no keyword has been specified.
+	                temp_ishod[:, column] = np.logical_not(temp_ishod[:, column])
+WARNING: Unknown input, no keyword has been specified.
+	            if second_test(temp_ishod, r):
+WARNING: Unknown input, no keyword has been specified.
+	                c = c + len(a)
+WARNING: Unknown input, no keyword has been specified.
+	                return c, True
+WARNING: Unknown input, no keyword has been specified.
+	    return c, False
+WARNING: Unknown input, no keyword has been specified.
+	def test_example(line_1, line_2, line_3):
+WARNING: Unknown input, no keyword has been specified.
+	    N, L = map(int, line_1.split())
+WARNING: Unknown input, no keyword has been specified.
+	    ishod, req = read_init_and_form_matrices(line_2, line_3)
+WARNING: Unknown input, no keyword has been specified.
+	    req, c, l, p = modify_rows(ishod, req, N, L)
+WARNING: Unknown input, no keyword has been specified.
+	    if not p:
+WARNING: Unknown input, no keyword has been specified.
+	        return "NOT POSSIBLE"
+WARNING: Unknown input, no keyword has been specified.
+	    if second_test(ishod, req, N):
+WARNING: Unknown input, no keyword has been specified.
+	        return c
+WARNING: Unknown input, no keyword has been specified.
+	    c, p = rotation_of_equal_sized_columns(ishod, req, c, l)
+WARNING: Unknown input, no keyword has been specified.
+	    if p:
+WARNING: Unknown input, no keyword has been specified.
+	        return c
+WARNING: Unknown input, no keyword has been specified.
+	    else:
+WARNING: Unknown input, no keyword has been specified.
+	        return "NOT POSSIBLE"
+WARNING: Unknown input, no keyword has been specified.
+	def run():
+WARNING: Unknown input, no keyword has been specified.
+	    file_name = "in.txt"
+WARNING: Unknown input, no keyword has been specified.
+	    with open(file_name, 'r') as f:
+WARNING: Unknown input, no keyword has been specified.
+	        lines = f.read().splitlines()
+WARNING: Unknown input, no keyword has been specified.
+	    n = int(lines[0])
+WARNING: Unknown input, no keyword has been specified.
+	    for i in xrange(0, n):
+WARNING: Unknown input, no keyword has been specified.
+	        line_1 = lines[1 + i * 3]
+WARNING: Unknown input, no keyword has been specified.
+	        line_2 = lines[2 + i * 3]
+WARNING: Unknown input, no keyword has been specified.
+	        line_3 = lines[3 + i * 3]
+WARNING: Unknown input, no keyword has been specified.
+	        print("Case #%d: %s" % (i + 1, test_example(line_1, line_2, line_3)))
+WARNING: Unknown input, no keyword has been specified.
+	if __name__ == '__main__':
+WARNING: Unknown input, no keyword has been specified.
+	    run()
+WARNING: Unknown input, no keyword has been specified.
+----------------------------------
+End of Run after 0.015103 Seconds.
+----------------------------------
+

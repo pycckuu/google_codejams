@@ -1,0 +1,1057 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  24 APR 2016 20:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/MarkelovIgor/Documents/git/codejam/2013/1A/1a.py
+(/Users/MarkelovIgor/Documents/git/codejam/2013/1A/1a.py
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 f
+     rom __future__ import division
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 from _
+          _future__ import division
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 from __
+           future__ import division
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.1 from __future__
+                    import division
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+Overfull \hbox (266.76288pt too wide) in paragraph at lines 1--5
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 d
+     ef read_file(file_name):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 def read_
+             file(file_name):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--11
+[]
+ []
+
+
+Overfull \hbox (71.2192pt too wide) in paragraph at lines 7--11
+[]\OML/cmm/m/it/10 ile\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 file[]ame\OT1/cmr/m/n/1
+0 ) :
+ []
+
+
+Overfull \hbox (126.32686pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 withopen\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 file[]ame;[] r[]\OT1
+/cmr/m/n/10 )\OML/cmm/m/it/10 asf \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (32.52733pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 lines \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (139.93651pt too wide) in paragraph at lines 7--11
+\OML/cmm/m/it/10 f:read\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 :splitlines\OT1/cmr/m
+/n/10 ()\OML/cmm/m/it/10 returnlines$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 d
+      ef advanced_read_file(file_name):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 def advanced_
+                  read_file(file_name):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--26
+[]
+ []
+
+
+Overfull \hbox (90.79446pt too wide) in paragraph at lines 13--26
+[]\OML/cmm/m/it/10 ead[]ile\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 file[]ame\OT1/cmr/
+m/n/10 ) :
+ []
+
+
+Overfull \hbox (32.52733pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 lines \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (102.15794pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 read[]ile\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 file[]ame\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (81.79851pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 int\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lines\OT1/cmr/m/n/10 [0])
+\OML/cmm/m/it/10 size \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (58.10423pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 examples \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (38.0829pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 lines \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (35.30511pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 lines\OT1/cmr/m/n/10 [1 :
+ []
+
+
+Overfull \hbox (82.1925pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 foriinxrange\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ n\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.68048pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 N \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (85.89113pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 int\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lines\OT1/cmr/m/n/10 [0])
+\OML/cmm/m/it/10 lines \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (35.30511pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 lines\OT1/cmr/m/n/10 [1 :
+ []
+
+
+Overfull \hbox (178.9485pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 size:append\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+N\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 examples:append\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 lines\OT1/cmr/m/n/10 [:
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (16.90277pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 N \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (44.19403pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 1])\OML/cmm/m/it/10 lines \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (34.74963pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 lines\OT1/cmr/m/n/10 [2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (16.90277pt too wide) in paragraph at lines 13--26
+\OML/cmm/m/it/10 N \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (10.55551pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 1 :
+ []
+
+
+Overfull \hbox (96.66759pt too wide) in paragraph at lines 13--26
+\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 returnsize; examples$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 d
+      ef write_output(n_case, res):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.28 def write_
+               output(n_case, res):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.29     print("Case #
+                      %d: %s" % (n_case, res))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--30
+[]
+ []
+
+
+Overfull \hbox (84.76645pt too wide) in paragraph at lines 28--30
+[]\OML/cmm/m/it/10 utput\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n[]ase; res\OT1/cmr/m
+/n/10 ) :
+ []
+
+
+Overfull \hbox (54.26027pt too wide) in paragraph at lines 28--30
+\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 Case$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 d
+      ef one_ring(r):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.32 def one_
+             ring(r):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.33     #
+           pi*((r+2)^2 - r^2)/2pi = 1+2r
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.35 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--35
+[]
+ []
+
+
+Overfull \hbox (37.12686pt too wide) in paragraph at lines 32--35
+[]\OML/cmm/m/it/10 ing\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (13.4764pt too wide) in paragraph at lines 32--35
+\OML/cmm/m/it/10 pi \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (20.34497pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 r \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (21.15285pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 2)[] \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (42.19632pt too wide) in paragraph at lines 32--35
+\OML/cmm/m/it/10 r[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2\OML/cm
+m/m/it/10 pi \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 1 +
+ []
+
+
+Overfull \hbox (52.14024pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 rreturn\OT1/cmr/m/n/10 2 +
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 32--35
+\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (4.78937pt too wide) in paragraph at lines 32--35
+\OML/cmm/m/it/10 r$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 d
+      ef how_many_rings(r_start, t):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 def how_
+             many_rings(r_start, t):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--46
+[]
+ []
+
+
+Overfull \hbox (94.95108pt too wide) in paragraph at lines 37--46
+[]\OML/cmm/m/it/10 any[]ings\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]tart; t\OT1/cm
+r/m/n/10 ) :
+ []
+
+
+Overfull \hbox (44.69443pt too wide) in paragraph at lines 37--46
+\OML/cmm/m/it/10 r[]tart; t \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (105.55943pt too wide) in paragraph at lines 37--46
+\OML/cmm/m/it/10 int\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]tart\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 ; int\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/c
+mm/m/it/10 sum \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (19.00066pt too wide) in paragraph at lines 37--46
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 i \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (66.99734pt too wide) in paragraph at lines 37--46
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 whilesum <\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (9.16661pt too wide) in paragraph at lines 37--46
+\OML/cmm/m/it/10 t \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (37.52553pt too wide) in paragraph at lines 37--46
+\OML/cmm/m/it/10 sum\OT1/cmr/m/n/10 + =
+ []
+
+
+Overfull \hbox (112.78793pt too wide) in paragraph at lines 37--46
+\OML/cmm/m/it/10 one[]ing\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]tart\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 r[]tart\OT1/cmr/m/n/10 + =
+ []
+
+
+Overfull \hbox (26.77846pt too wide) in paragraph at lines 37--46
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 i\OT1/cmr/m/n/10 + =
+ []
+
+
+Overfull \hbox (45.79599pt too wide) in paragraph at lines 37--46
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 returni \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 37--46
+\OT1/cmr/m/n/10 1$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 d
+      ef arifmetic_sum_full_ring(t):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.48 def arifmetic_
+                   sum_full_ring(t):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.49     #
+           n/2(2*a+(n-1)*d) = sum of arithmetic progression
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 48--52
+[]
+ []
+
+
+Overfull \hbox (71.80067pt too wide) in paragraph at lines 48--52
+[]\OML/cmm/m/it/10 um[]ull[]ing\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/
+10 ) :
+ []
+
+
+Overfull \hbox (29.89131pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 n=\OT1/cmr/m/n/10 2(2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (13.06369pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (17.66905pt too wide) in paragraph at lines 48--52
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (13.88893pt too wide) in paragraph at lines 48--52
+\OT1/cmr/m/n/10 1) \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (19.64928pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (147.1945pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 sumofarithmeticprogressionn \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 48--52
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 48--52
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1 +
+ []
+
+
+Overfull \hbox (60.79411pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 math:sqrt\OT1/cmr/m/n/10 (1 +
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 48--52
+\OT1/cmr/m/n/10 4 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (46.96431pt too wide) in paragraph at lines 48--52
+\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 returnn$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 d
+      ef innner_circle(r_start):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 def innner_
+                circle(r_start):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.55     #
+           n = 1 / 2 * (-1 + math.sqrt(1 + 4 * t))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.58 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 54--58
+[]
+ []
+
+
+Overfull \hbox (63.88933pt too wide) in paragraph at lines 54--58
+[]\OML/cmm/m/it/10 ircle\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]tart\OT1/cmr/m/n/1
+0 ) :
+ []
+
+
+Overfull \hbox (16.55786pt too wide) in paragraph at lines 54--58
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1 +
+ []
+
+
+Overfull \hbox (60.79411pt too wide) in paragraph at lines 54--58
+\OML/cmm/m/it/10 math:sqrt\OT1/cmr/m/n/10 (1 +
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 4 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (26.63193pt too wide) in paragraph at lines 54--58
+\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 s \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (41.08344pt too wide) in paragraph at lines 54--58
+\OML/cmm/m/it/10 r[]tart=\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (13.88893pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 (2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 0 +
+ []
+
+
+Overfull \hbox (37.75009pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]tart \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (13.88893pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 1) \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (53.14949pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 returns$ 
+
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 d
+      ef how_many_rings_advanced_version(r, t):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60 def how_
+             many_rings_advanced_version(r, t):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.62 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--62
+[]
+ []
+
+
+Overfull \hbox (147.00598pt too wide) in paragraph at lines 60--62
+[]\OML/cmm/m/it/10 any[]ings[]dvanced[]ersion\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+r; t\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (49.5731pt too wide) in paragraph at lines 60--62
+\OML/cmm/m/it/10 return\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2 \OM
+S/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 60--62
+\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1 +
+ []
+
+
+Overfull \hbox (60.79411pt too wide) in paragraph at lines 60--62
+\OML/cmm/m/it/10 math:sqrt\OT1/cmr/m/n/10 (1 +
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 60--62
+\OT1/cmr/m/n/10 4 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (15.27782pt too wide) in paragraph at lines 60--62
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (79.32654pt too wide) in paragraph at lines 60--62
+\OML/cmm/m/it/10 innner[]ircle\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r\OT1/cmr/m/n/1
+0 ))))$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.64 #
+       def multiple_output(n, fun):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 # d
+        ef multiple_output(n, fun):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 # def multiple_
+                    output(n, fun):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.65 #
+           for i in xrange(n):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.66 #
+               write_output(i + 1, fun(lines[i + 1]))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--67
+[]
+ []
+
+
+Overfull \hbox (69.6291pt too wide) in paragraph at lines 64--67
+[]\OML/cmm/m/it/10 utput\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n; fun\OT1/cmr/m/n/10
+ ) :
+ []
+
+
+Overfull \hbox (79.41472pt too wide) in paragraph at lines 64--67
+\OML/cmm/m/it/10 foriinxrange\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10
+ ) :
+ []
+
+
+Overfull \hbox (67.19182pt too wide) in paragraph at lines 64--67
+\OML/cmm/m/it/10 write[]utput\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i \OT1/cmr/m/n/1
+0 +
+ []
+
+
+Overfull \hbox (67.00505pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; fun\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lines\
+OT1/cmr/m/n/10 [\OML/cmm/m/it/10 i \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (15.5556pt too wide) in paragraph at lines 64--67
+\OT1/cmr/m/n/10 1]))$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 i
+      f __name__ == '__main__':
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 if _
+         _name__ == '__main__':
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.68 if __
+          name__ == '__main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.68 if __name__
+                 == '__main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.68 if __name__ == '__
+                       main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.68 if __name__ == '__main__
+                             ':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.68 if __name__ == '__main__'
+                              :
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `macro parameter character #' in math mode.
+l.72     #
+           print innner_circle(4)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> ...lovIgor/Documents/git/codejam/2013/1A/1a.py
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 493089
+ 336 string characters out of 6134842
+ 57199 words of memory out of 5000000
+ 3592 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,7n,12p,126b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
